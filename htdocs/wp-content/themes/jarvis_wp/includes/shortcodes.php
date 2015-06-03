@@ -927,7 +927,7 @@ if($viewprofile=="yes"){
 	  $rnr_team_member .= '</div>';
 	  $rnr_team_member .= '</div>';
 	  $rnr_team_member .= '</div>';    
-	  $rnr_team_member .= '<p>'.__('Scroll Down','rocknrolla').'</p><span class="fa fa-angle-down animated bounce"></span>';  	               
+	  //$rnr_team_member .= '<p>'.__('Scroll Down','rocknrolla').'</p><span class="fa fa-angle-down animated bounce"></span>';  	               
 	  $rnr_team_member .= '</div>';                   
 
 }
