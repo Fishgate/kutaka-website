@@ -21,7 +21,7 @@
 <?php }else {
 	      $rnr_description =  get_bloginfo('description'); ?>
           <title><?php wp_title(' &raquo; ', true, 'right'); ?><?php bloginfo('name'); ?> &raquo; <?php echo $rnr_description; ?></title>
-         <meta name="description" content="<?php  echo $rnr_description; ?>">  
+           
          <?php    } ?>
 </title>
 
